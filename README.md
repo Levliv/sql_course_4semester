@@ -2,7 +2,7 @@
 Homeworks for sql course completed during the 4th semester.
 
 ## Table of content
-### [Introduction] (HomeTask1)
+### [Introduction] (HomeTask1/)
 1. Создайте базу данных pet_db с помощью скрипта Pets_script.sql. Для этого:
 * Запустите среду разработчика. (например, Start -> All Programs -> Microsoft SQL Server -> SQL Server Management Studio)
 
